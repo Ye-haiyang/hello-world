@@ -1,2 +1,3 @@
 # hello-world
-just a simple test
+Hi humans!
+I am a cool cat.
